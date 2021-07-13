@@ -1,9 +1,3 @@
-# my-first-repo
-
-print("HELLO WORLD!")
-
-x = 2 + 2
-print(x)
 
 # My First Repo!
 
